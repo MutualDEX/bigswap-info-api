@@ -1,5 +1,5 @@
 {
-  "name": "pancake-info-api",
+  "name": "bigswap-info-api",
   "version": "1.0.0",
   "description": "Serverless API implementation for BigSwap on-chain data query.",
   "repository": "git@github.com:BigSwap-Finance/bigswap-info-api.git",
