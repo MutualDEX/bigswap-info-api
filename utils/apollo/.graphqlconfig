@@ -1,9 +1,9 @@
 {
-  "name": "PancakeSwap Exchange LITE",
+  "name": "BigSwap Exchange LITE",
   "schemaPath": "schema.graphql",
   "extensions": {
     "endpoints": {
-      "PancakeSwap Exchange LITE": {
+      "BigSwap Exchange LITE": {
         "url": "https://api.bscgraph.org/subgraphs/name/bigswap/exchange-lite",
         "headers": {
           "user-agent": "JS GraphQL"
