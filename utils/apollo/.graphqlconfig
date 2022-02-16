@@ -4,7 +4,7 @@
   "extensions": {
     "endpoints": {
       "BigSwap Exchange LITE": {
-        "url": "https://api.bscgraph.org/subgraphs/name/bigswap/exchange-lite",
+        "url": "https://api.bscgraph.org/subgraphs/name/bigswap-finance/exchange",
         "headers": {
           "user-agent": "JS GraphQL"
         },
